@@ -21,3 +21,4 @@
 All conflicts successfully resolved ✅
 - ✅ Branches verified
 - ✅ Instructor remote configured
+- ✅ Git tags milestones added
